@@ -37,12 +37,12 @@ const App = () => {
    * Siguraduhin na ang mga pictures ay nasa parehong folder o sa loob ng 'public/images' folder.
    */
   const pictures = [
-    "/public/1.jpg", // Palitan mo ito ng file name mo (e.g., photo1.png)
-    "/public/2.jpg",
-    "/public/3.jpg",
-    "/public/4.jpg",
-    "/public/5.jpg",
-    "/public/6.jpg"
+    "/1.jpg", // Palitan mo ito ng file name mo (e.g., photo1.png)
+    "/2.jpg",
+    "/3.jpg",
+    "/4.jpg",
+    "/5.jpg",
+    "/6.jpg"
   ];
 
   return (
